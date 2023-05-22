@@ -22,7 +22,7 @@ fun main() {
         	ConteudoEducacional("Java OO", Nivel.AVANCADO, 240), 
         	ConteudoEducacional("Java Exceptions", Nivel.INTERMEDIARIO, 180), 
         	ConteudoEducacional("Java Classes", Nivel.BASICO, 120)
-    	)
+    )
     
     val formacao01 = Formacao("Java Developer", Nivel.AVANCADO, conteudo01)
     
